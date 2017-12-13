@@ -1,0 +1,21 @@
+The Unix Workbench - Sean Kross
+
+https://www.coursera.org/learn/unix
+
+https://github.com/seankross
+
+https://leanpub.com/unix/read_full
+
+https://leanpub.com/unix
+
+https://github.com/seankross/the-unix-workbench
+
+
+
+https://learncodethehardway.org/
+
+http://pythontutor.com/
+
+https://developer.mozilla.org/en-US/docs/Web/Tutorials
+
+https://nodeschool.io/
